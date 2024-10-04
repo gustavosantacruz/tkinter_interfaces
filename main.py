@@ -9,6 +9,6 @@ ventana.maxsize(800, 600)
 ventana.iconbitmap("perrito.ico")
 ventana.configure(bg= "aquamarine2")
 ventana.resizable(False,True)
-ventana.attributes("-alpha", 0.9)
+ventana.attributes("-alpha", 0.9 )
 
 ventana.mainloop()
